@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A4CA74,100:A4CA74&height=180&section=header&text=&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&descAlignY=45&&descSize=18)
+
 <div align="center">
 	
 <br><br><br>
@@ -32,4 +34,8 @@
 
 <br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd-charlie-kim&count_bg=%23A4CA74&title_bg=%23545454&icon=github.svg&icon_color=%23A4CA74&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A4CA74,100:A4CA74&height=140)
 </div>
