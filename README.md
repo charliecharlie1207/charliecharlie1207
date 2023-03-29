@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A4CA74,100:A4CA74&height=180&section=header&text=&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&descAlignY=45&&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A4CA74,100:A4CA74&height=180&section=header&text=&fontSize=0&fontColor=ffffff&animation=fadeIn&fontAlignY=0&descAlignY=0&&descSize=0)
 
 <div align="center">
 	
-<br><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=A4CA74&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Charlie+Kim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <br><br><br>
 쉽게 무너지지 않는, 단단한 프론트엔드 개발자를 꿈꿉니다.
