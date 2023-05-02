@@ -4,9 +4,9 @@
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=A4CA74&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Charlie+Kim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 <br><br><br>
-쉽게 무너지지 않는, 단단한 프론트엔드 개발자를 꿈꿉니다.
 </div>
 
+<h3 align="center">쉽게 무너지지 않는, 단단한 프론트엔드 개발자를 꿈꿉니다.</h3>
 
 
 <br>
